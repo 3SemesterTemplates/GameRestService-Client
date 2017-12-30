@@ -1,0 +1,9 @@
+C:\Users\jacob\source\repos\GameStoreWcfRest\GameStoreWcfRest\bin\GameStoreWcfRest.dll.config
+C:\Users\jacob\source\repos\GameStoreWcfRest\GameStoreWcfRest\bin\GameStoreWcfRest.dll
+C:\Users\jacob\source\repos\GameStoreWcfRest\GameStoreWcfRest\bin\GameStoreWcfRest.pdb
+C:\Users\jacob\source\repos\GameStoreWcfRest\GameStoreWcfRest\bin\GameStorelibrary.dll
+C:\Users\jacob\source\repos\GameStoreWcfRest\GameStoreWcfRest\bin\GameStorelibrary.pdb
+C:\Users\jacob\source\repos\GameStoreWcfRest\GameStoreWcfRest\obj\Debug\GameStoreWcfRest.csprojResolveAssemblyReference.cache
+C:\Users\jacob\source\repos\GameStoreWcfRest\GameStoreWcfRest\obj\Debug\GameStoreWcfRest.csproj.CoreCompileInputs.cache
+C:\Users\jacob\source\repos\GameStoreWcfRest\GameStoreWcfRest\obj\Debug\GameStoreWcfRest.dll
+C:\Users\jacob\source\repos\GameStoreWcfRest\GameStoreWcfRest\obj\Debug\GameStoreWcfRest.pdb
