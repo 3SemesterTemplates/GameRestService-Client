@@ -31,13 +31,18 @@ namespace GamesStoreClientRest
             Console.WriteLine("Game with id = " + 2 + " is removed" + "\n" + deleteGame);
 
             UpdateGameAsync(new Games(1, "Donkey Kong", 4.95, 2));
+            Console.ReadKey();
             var GamesList2 = GetGamesAsync().Result;
             Console.WriteLine("Game with id = " + 1 + " was updated \n" + string.Join("\n", GamesList2));
 
             AddGameAsync(new Games(5, "HarvestMoon", 9.95,19));
+            Console.ReadKey();
             var GamesList3 = GetGamesAsync().Result;
             Console.WriteLine("All Games \n" + string.Join("\n", GamesList3));
         }
+
+
+
 
         private async Task<IList<Games>> GetGamesAsync()
         {
@@ -73,7 +78,7 @@ namespace GamesStoreClientRest
                 HttpContent content = new StringContent(JsonConvert.SerializeObject(newGame));
                 content.Headers.ContentType = new MediaTypeHeaderValue("application/json");
 
-                var result = await client.PostAsync(uri + "/game", content);
+                var result = await client.PutAsync(uri + "/game", content);
 
             }
         }
