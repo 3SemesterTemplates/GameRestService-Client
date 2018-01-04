@@ -1,0 +1,12 @@
+C:\Users\jacob\source\repos\GameStoreWcfRest\GameStorelibrary\bin\Debug\GameStorelibrary.dll
+C:\Users\jacob\source\repos\GameStoreWcfRest\GameStorelibrary\bin\Debug\GameStorelibrary.pdb
+C:\Users\jacob\source\repos\GameStoreWcfRest\GameStorelibrary\obj\Debug\GameStorelibrary.csprojResolveAssemblyReference.cache
+C:\Users\jacob\source\repos\GameStoreWcfRest\GameStorelibrary\obj\Debug\GameStorelibrary.csproj.CoreCompileInputs.cache
+C:\Users\jacob\source\repos\GameStoreWcfRest\GameStorelibrary\obj\Debug\GameStorelibrary.dll
+C:\Users\jacob\source\repos\GameStoreWcfRest\GameStorelibrary\obj\Debug\GameStorelibrary.pdb
+C:\Users\jacob\Desktop\GameRestService-Client-master\GameStoreWcfRest\GameStorelibrary\bin\Debug\GameStorelibrary.dll
+C:\Users\jacob\Desktop\GameRestService-Client-master\GameStoreWcfRest\GameStorelibrary\bin\Debug\GameStorelibrary.pdb
+C:\Users\jacob\Desktop\GameRestService-Client-master\GameStoreWcfRest\GameStorelibrary\obj\Debug\GameStorelibrary.csprojResolveAssemblyReference.cache
+C:\Users\jacob\Desktop\GameRestService-Client-master\GameStoreWcfRest\GameStorelibrary\obj\Debug\GameStorelibrary.csproj.CoreCompileInputs.cache
+C:\Users\jacob\Desktop\GameRestService-Client-master\GameStoreWcfRest\GameStorelibrary\obj\Debug\GameStorelibrary.dll
+C:\Users\jacob\Desktop\GameRestService-Client-master\GameStoreWcfRest\GameStorelibrary\obj\Debug\GameStorelibrary.pdb
